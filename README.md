@@ -45,4 +45,5 @@ cd lokasi/folder/proyek1
 jupyter notebook
 ```
 >browser akan otomatis terbuka dan kalian bisa mengakses file yang sudah di download
+
 6.**Run semua cell secara berurutan** Agar mendapat hasil akhir yang sesuai pembuat, jalankan cell secara berurutan dari atas hingga bawah, maka dipastikan hasil akhir akan sesuai.
