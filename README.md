@@ -26,6 +26,18 @@ Analisis terhadap insiden kebocoran data kesehatan di Amerika Serikat, dengan fo
 
 ## 3 Temuan Utama
 
+1. Kebocoran lewat media Digital terjadi sekitar 3 kali lebih sering dibanding media 
+   Fisik, tetapi Theft (pencurian fisik seperti laptop/dokumen dicuri) tetap menjadi 
+   penyebab tunggal terbanyak di kedua kategori menunjukkan pencurian fisik perangkat 
+   masih jadi ancaman utama meski data sudah digital.
+2. Distribusi jumlah individu terdampak sangat right-skewed: mayoritas insiden hanya 
+   berdampak ke ratusan-ribuan individu, tapi lima insiden terbesar (semuanya Digital, 
+   dipicu Hacking/IT Incident atau Loss) berdampak hingga puluhan juta individu 
+   sekaligus.
+3. Hacking/IT Incident, meski hanya menyumbang sekitar 14% dari total kejadian, punya median 
+   dan outlier individu terdampak tertinggi di antara semua jenis breach menandakan 
+   jenis ini jarang terjadi tapi paling merusak ketika terjadi.
+
 ## Cara Menjalankan Notebook
 
 1. **Undul file yang dibutuhkan** Unduh file yang berada di github ini, pastikan file `eda_kelompok_02.ipynb` dan `breach_report.csv` terinstall dan berada pada satu folder yang sama
